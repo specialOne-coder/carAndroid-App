@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Animals</string>
+    <string name="decouvrir">A découvrir</string>
+    <string name="home_page_animalsSection">Derniers animaux</string>
+
+    <!-- Animal personnalisé -->
+    <string name="home_page_animals_name">Nom de l\'animal</string>
+    <string name="home_page_animals_desc">Description de l\'animal</string>
+    
+    <!-- Ma collection -->
+    <string name="collection">Ma  Collection</string>
+
+    <!-- Ajout -->
+    <string name="add_animals">Ajout d\'un animal</string>
+    <string name="load_animals_btn">Charger Image</string>
+    <string name="add_animals_name_input">@string/home_page_animals_name</string>
+    <string name="add_animals_desc_input">@string/home_page_animals_desc</string>
+
+    <string-array name="add_animals_categorie_input">
+        <item>Type : Herbivore</item>
+        <item>Type : Carnivore</item>
+        <item>Type : Mammifère</item>
+    </string-array>
+    <string-array name="add_animals_conso_input">
+        <item>Consommation : onAvance</item>
+        <item>Consommation : Herbe</item>
+        <item>Consommation : autres</item>
+    </string-array>
+    <string name="add_animals_confirm_btn">Confirmer</string>
+
+    <!-- Popup  -->
+
+
+</resources>
